@@ -1,4 +1,4 @@
-name: array-oriented-programming-test
+name: array-oriented-programming
 
 channels:
   - conda-forge
