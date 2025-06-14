@@ -1,6 +1,6 @@
 # 2024-05-22-hsf-india-tutorial-delhi
 
-After [starting a JupyterHub with no GPU](https://binderhub.ssl-hep.org/v2/gh/research-software-collaborations/courses-hsf-india-may2024/HEAD),
+After [starting a JupyterHub with no GPU](https://binderhub.ssl-hep.org/v2/gh/research-software-collaborations/courses-hsf-india-june2025/lite),
 
 <br>
 
